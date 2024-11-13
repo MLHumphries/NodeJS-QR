@@ -1,1 +1,1 @@
-# NodeJS-QR
+# Node-JS-QR-Code-Generator
